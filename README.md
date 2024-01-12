@@ -1,2 +1,2 @@
 # polling-system-project
-Fynd academy project deployed on heroku
+Fynd academy project
